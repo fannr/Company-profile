@@ -1,0 +1,35 @@
+body {
+  font-family: Roboto;
+}
+
+.navbar-brand {
+  font-size: 1.4em !important;
+}
+
+.caption h3,
+.caption h5,
+.parallax-container h3 {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.parallax-container {
+  height: 20%;
+}
+
+.parallax img {
+  filter: grayscale(1) !important;
+  opacity: 0.5 !important;
+}
+
+.clients img {
+  max-width: 150px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.5));
+}
+
+section {
+  padding: 20px 0;
+}
+
+footer {
+  padding: 5px 0;
+}
